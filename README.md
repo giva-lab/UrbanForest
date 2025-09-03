@@ -18,7 +18,7 @@ Data were produced using CBERS-4A imagery and open-source tools, providing accur
 ## 📖 Citation
 If you use this dataset, please cite:
 
-> Normando Amazonas, Rogério Negri, Luis Gustavo Nonato.  
+> Normando Amazonas, Rogério Negri and Luis Gustavo Nonato.  
 > *Generating Urban Forest Datasets from Satellite Imagery: Application to the City of São Paulo.*  
 > [Journal/Conference information will be added once available.] 
 
