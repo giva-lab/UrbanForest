@@ -5,10 +5,10 @@ Data were produced using CBERS-4A imagery and open-source tools, providing accur
 
 ## 📂 Repository Structure
 
-data/ → Main dataset files (CSV files with urban forest information)
-docs/ → Documentation and metadata description
-README.md → Overview of the repository
-LICENSE → License for dataset use
+- `data/`     → Main dataset files (CSV files with urban forest information)
+- `docs/`     → Documentation and metadata description
+- `README.md` → Overview of the repository
+- `LICENSE`   → License for dataset use
 
 ## 🔍 Contents
 - **Urban forest datasets** in CSV format  
