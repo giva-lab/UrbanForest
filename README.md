@@ -31,7 +31,7 @@ This dataset is released under the [Creative Commons Zero v1.0 Universal (CC0 1.
 
 For questions regarding the dataset or the article, please contact:
 
-- **Normando Amazonas** – University of São Paulo (USP) – normandoamazonas@usp.br  
-- **Prof. Dr. Rogério Negri** – São Paulo State University (UNESP) – rogerio.negri@unesp.br  
-- **Prof. Dr. Luis Gustavo Nonato** – University of São Paulo (USP), Institute of Mathematics and Computer Sciences (ICMC) – gnonato@icmc.usp.br
+- **Normando Amazonas** – University of São Paulo (USP), ICMC – normandoamazonas@usp.br  
+- **Prof. Dr. Rogério Negri** – São Paulo State University (UNESP), ICT – rogerio.negri@unesp.br  
+- **Prof. Dr. Luis Gustavo Nonato** – University of São Paulo (USP), ICMC – gnonato@icmc.usp.br
 
