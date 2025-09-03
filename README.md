@@ -27,6 +27,11 @@ This dataset is released under the [Creative Commons Zero v1.0 Universal (CC0 1.
 
 **Note:** While CC0 allows free use, sharing, and modification without restriction, we recommend citing the article above when using the datasets.  
 
-## 📨 Contact
-For questions or collaboration opportunities, please contact:  
-**Normando Amazonas** – [your.email@domain.com]
+## 📬 Contact
+
+For questions regarding the dataset or the article, please contact:
+
+- **Normando Amazonas** – University of São Paulo (USP) – normandoamazonas@usp.br  
+- **Prof. Dr. Rogério Negri** – São Paulo State University (UNESP) – rogerio.negri@unesp.br  
+- **Prof. Dr. Luis Gustavo Nonato** – University of São Paulo (USP), Institute of Mathematics and Computer Sciences (ICMC) – gnonato@icmc.usp.br
+
