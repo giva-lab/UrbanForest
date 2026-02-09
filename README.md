@@ -18,9 +18,9 @@ Data were produced using CBERS-4A imagery and open-source tools, providing accur
 ## 📖 Citation
 If you use this dataset, please cite:
 
-> Normando Amazonas, Rogério Negri and Luis Gustavo Nonato.  
-> *Generating Urban Forest Datasets from Satellite Imagery: Application to the City of São Paulo.*  
-> [Journal/Conference information will be added once available.] 
+> Normando Amazonas, Rogério Negri, and Luis Gustavo Nonato. “Generating Urban Forest
+Datasets from Satellite Imagery: Application to the City of São Paulo”. In: Conf. on Graph-
+ics, Patterns and Images (SIBGRAPI). 2025, pp. 1–6
 
 ## 📜 License
 This dataset is released under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) license.  
