@@ -1,0 +1,14 @@
+variable,observed_definition,limitation
+veiculo_n / celular_n,Contagem por célula; inteiros >=0,"Categorias, período e processamento original não comprovados"
+veg_pct / shadow_pct,Percentual da área da célula; 0–100,"Imagem, data, acurácia e significado da sombra não auditáveis"
+infrastructure_index,"Real; 0–45,54","Fórmula, escala e componentes desconhecidos"
+high_income,Binária 0/1,"Limiar de renda, ano e suporte espacial desconhecidos"
+streetlight,Inteiro; 0–379,Possível iluminação na rede; não provada contagem dentro da célula
+schools_r500m,Inteiro; 0–21,Nome sugere escolas em 500 m; tipo de distância e fonte não comprovados
+transport_hubs_r500m,Inteiro; 0–119,Objeto contado e rede/raio não comprovados
+police_station_r500m,Inteiro; 0–5,"Objeto, fonte, raio e ano não comprovados"
+private_parking_r500m,Inteiro; 0–307,Não equivale a vagas ou veículos expostos
+paid_parking_distance,"Real; 0–4.738,46",Nome sugere distância; metros e algoritmo não documentados
+moradores,Real; 10–1.500 na amostra,Não comprovada população residente dentro da célula
+distancia_marco_zero,Real; 0–12.130,Unidade/algoritmo não documentados; não converter em fato apenas pelo CRS
+road_m / motor_m (novas),Metros calculados em EPSG:31983,União das linhas recortadas por célula; não veículos-tempo

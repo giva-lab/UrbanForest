@@ -1,0 +1,10 @@
+{
+  "originals_unchanged": true,
+  "all_counts_integer_nonnegative": true,
+  "design_full_rank": true,
+  "condition_number_standardized": 3.2755301884299457,
+  "second_start_converged": true,
+  "second_start_AIC": 58786.043582185,
+  "AIC_difference_starts": 1.3475073501467705e-08,
+  "alpha_second_start": 4.328414338411599
+}

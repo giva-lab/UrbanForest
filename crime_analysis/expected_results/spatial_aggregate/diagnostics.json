@@ -1,0 +1,12 @@
+{
+  "n_cells": 45004,
+  "n_blocks_1km": 204,
+  "block_edges": 722,
+  "isolated_blocks": 0,
+  "advi_iterations": 30000,
+  "elapsed_minutes": 9.173274183273316,
+  "final_loss": 29490.248983820406,
+  "median_loss_last_1000": 29210.08123358607,
+  "posterior_mean_residual_moran_70_72m": 0.029706922044627472,
+  "frequentist_reference_moran": 0.0526
+}

@@ -1,0 +1,13 @@
+{
+  "outcome": "robbery",
+  "outcome_column": "robbery_n",
+  "events": 2533,
+  "elapsed_minutes": 116.43576649427413,
+  "divergences": 0,
+  "max_split_rhat_fixed_and_scale": 1.0062600357355906,
+  "residual_moran_70_72m": -0.002771817776274299,
+  "nb2_vegetation": -0.006305296002768871,
+  "nb2_shadow": -0.0003317546143787262,
+  "spatial_vegetation": -0.0033181628178917465,
+  "spatial_shadow": 0.0015997376702476464
+}

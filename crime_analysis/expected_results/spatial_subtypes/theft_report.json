@@ -1,0 +1,13 @@
+{
+  "outcome": "theft",
+  "outcome_column": "theft_n",
+  "events": 12172,
+  "elapsed_minutes": 105.1711455821991,
+  "divergences": 0,
+  "max_split_rhat_fixed_and_scale": 1.0474996439990565,
+  "residual_moran_70_72m": 0.03727335680828012,
+  "nb2_vegetation": -0.0027789663387722484,
+  "nb2_shadow": 0.005067431087884483,
+  "spatial_vegetation": -0.0006472034807575826,
+  "spatial_shadow": 0.0050943625582021085
+}
